@@ -26,5 +26,5 @@ button{
 }
 button:hover{
     transform: scale(1.1); 
-    background-color: rgb(242, 226, 11); /* Green */
+    background-color: rgb(242, 226, 11);
 }
